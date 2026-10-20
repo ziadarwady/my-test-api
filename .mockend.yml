@@ -15,5 +15,5 @@ models:
     fake:
       _count: 25
       email: email
-      body: { loremParagraphs: [10, 100] }
+      body: { loremParagraphs: [5, 20] }
       createdAt: { dateTime: [2010-01-01T00:00:00Z, 2020-12-31T23:59:59Z] }
